@@ -1,4 +1,4 @@
-# Lara-React-CRUD
+# Laravel-React-CRUD
 
 This project is a CRUD (Create, Read, Update, Delete) application built using Laravel for the backend and React for the frontend. Learn how to create this project from https://youtu.be/VdYfBzOFPUQ
 
